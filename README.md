@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## how to run project:
+1. yarn install
+2. yarn start
+3. open browser and enter "http://localhost:3000"
+
+To-do items:
+need to confirm the requirements with PM before implement anything.
+Shoud use tool like figma to add the UI design first
+Add advanced search: user can search by name, cateory, size...
+
+
 ## Available Scripts
 
 In the project directory, you can run:
